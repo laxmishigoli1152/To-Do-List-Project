@@ -17,11 +17,11 @@ This project aims to help creating a simple ToDo List using html, css3 and javas
 On the frontend we are using HTML, CSS , JAVASCRIPT<br>
 
 <h5>Technologies Using</h5>
-<br>CSS v3.0<br>
+CSS v3.0<br>
 JS<br>
 
 <h5>Contributers Guide</h5>
-<br>To contribute to hassle free, follow these steps:<br>
+To contribute to hassle free, follow these steps:<br>
 Fork this repository.<br>
 Create a branch: git checkout -b <branch_name>.<br>
 Make your changes and commit them: git commit -m '<commit_message>'<br>
@@ -30,7 +30,7 @@ Create the pull request.<br>
 Alternatively see the GitHub documentation on creating a pull request.<br>
 <br>
 <h5>Getting Started</h5>
-<br>To get started locally, follow these instructions:<br>
+To get started locally, follow these instructions:<br>
 If you haven't done it already, make a fork of this repo.<br>
 Clone to your local computer using git.<br>
 Make sure that to create pull request.<br>
