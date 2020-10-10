@@ -17,6 +17,10 @@ $("ul").on("click", "span", function(event){
 	$(this).parent().fadeOut(500,function(){
 		$(this).remove();
 		
+		notes.shift();
+		console.log(notes);
+		localStorage.setItem("savedNotes", JSON.stringify(notes));
+		
 	});
 	event.stopPropagation();
 });
