@@ -11,14 +11,14 @@ Contributers Guide<br>
 
 <h6>Getting Started - Local Development</h6><br>
 Introduction<br>
-This project aims to help creating a simple game using html, css3 and javascript<br>
+This project aims to help creating a simple ToDo List using html, css3 and javascript<br>
 
 <h5>Description</h5>
 <br>On the frontend we are using HTML, CSS , JAVASCRIPT<br>
 
 <h5>Technologies Using</h5>
 <br>CSS v3.0<br>
-Bootstrap 4.5.2.<br>
+JS<br>
 
 <h5>Contributers Guide</h5>
 <br>To contribute to hassle free, follow these steps:<br>
