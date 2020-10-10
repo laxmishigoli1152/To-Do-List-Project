@@ -36,6 +36,8 @@ li {
 	height: 40px;
 	line-height: 40px;
 	color: #666;
+	font-size: 3wv;
+	padding: 8px;
 }
 
 li:nth-child(2n){
@@ -62,7 +64,7 @@ span {
 }
 
 input {
-	font-size: 18px;
+	font-size: 4vw;
 	color: #2980b9;
 	background-color: #f7f7f7;
 	width: 100%;
@@ -77,14 +79,22 @@ input:focus{
 	outline: none;
 }
 
-#container {
-	width: 360px;
+.container {
+	width: 40%;
 	margin: 100px auto;
 	background: #f7f7f7;
 	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
+	min-width: 300px;
 }
 
 .completed {
 	color: gray;
 	text-decoration: line-through;
+}
+
+@media(max-width: 500px){
+
+	.container {
+		width: 90% !important;
+	}
 }
